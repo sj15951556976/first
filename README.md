@@ -1,2 +1,1 @@
-# first
-哈哈哈哈哈
+GITHUB 学习
